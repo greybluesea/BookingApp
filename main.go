@@ -78,6 +78,7 @@ func main() {
 
 		//break for next customer
 		fmt.Println("")
+		fmt.Printf("\t#######\t Next Customer \t#######\n")
 		fmt.Println("")
 	}
 }
